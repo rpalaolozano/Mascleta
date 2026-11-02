@@ -4,5 +4,6 @@ public class App {
         System.out.println("Creado desde feature1");
         System.out.println("Creado desde feature1");
         System.out.println("Creado desde feature2");
+        System.out.println("Recuerda hacer pull");
     }
 }
